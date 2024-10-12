@@ -2,6 +2,8 @@
 This project involves the analysis of financial data using Power BI, achieving significant insights into revenue, expenses, and profitability. Key metrics include a 24.57% profit margin and a net profit of 4.3M, with detailed performance tracking across business lines.
 Insights
 
+Insights
+
 1. Financial Performance:
 
    - Total Revenue: 17.6M
@@ -13,13 +15,14 @@ Insights
    - Gross Profit: 11M
 
 
+
 2. Expenses Analysis:
 
-   - Total Expenses: 13M
+   - Total Expenses: -13M
 
-   - Interest and Tax: 929K
+   - Interest and Tax: -929K
 
-   - OPEX: 5.6M
+   - OPEX: -5.6M
 
    - Cost-to-Income Ratio: 75.43
 
